@@ -23,6 +23,9 @@ This repository contains my Frontend AI Engineering capstone project.
 - Build frontend
 - Learn React
 
+## Current Status
+
+Project setup completed successfully.
 
 ## Author
 Jigyasa
